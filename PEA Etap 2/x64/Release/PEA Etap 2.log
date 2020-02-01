@@ -1,0 +1,8 @@
+﻿  LoadInstance.cpp
+C:\Users\Krzysiek\Desktop\PEA\PEA Etap 2\PEA Etap 2\LoadInstance.cpp(58,9): warning C4101: 'wybor': unreferenced local variable
+  Generating code
+  1 of 200 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PEA Etap 2.vcxproj -> C:\Users\Krzysiek\Desktop\PEA\PEA Etap 2\x64\Release\PEA Etap 2.exe
