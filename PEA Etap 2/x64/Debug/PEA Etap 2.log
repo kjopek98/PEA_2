@@ -1,0 +1,9 @@
+﻿  Timer.cpp
+  LoadInstance.cpp
+C:\Users\Krzysiek\Desktop\PEA\PEA Etap 2\PEA Etap 2\LoadInstance.cpp(58,9): warning C4101: 'wybor': unreferenced local variable
+  main.cpp
+C:\Users\Krzysiek\Desktop\PEA\PEA Etap 2\PEA Etap 2\main.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SimulatedAnnealing.cpp
+C:\Users\Krzysiek\Desktop\PEA\PEA Etap 2\PEA Etap 2\SimulatedAnnealing.cpp(13,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  PEA Etap 2.vcxproj -> C:\Users\Krzysiek\Desktop\PEA\PEA Etap 2\x64\Debug\PEA Etap 2.exe
